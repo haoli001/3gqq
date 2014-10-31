@@ -63,7 +63,7 @@ class Dianzan:
 
     def dianzan(self, cnt = 5, op = '1'):
         '''
-        下面这中方法返回的地址是转义了的。。
+        下面这种方法返回的地址是转义了的。。
         '''
         #patter = r'''<a href="([^>]*?)">赞'''
         #content = self.session.get(self.url).content
